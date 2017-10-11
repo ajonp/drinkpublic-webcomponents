@@ -23,9 +23,7 @@ export class AjonpFirebaseAuth {
 
     render() {
         return (
-            <div>
-                How do I execute this?
-            </div>
+            <ion-button>This should not be in Auth</ion-button>
         );
     }
     _attemptProviderSignIn(provider: string, method: any) {
