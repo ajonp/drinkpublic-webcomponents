@@ -1,6 +1,8 @@
 exports.config = {
   bundles: [
-    { components: ['ajonp-drinkpublic'] }
+    { components: ['ajonp-drinkpublic',] },
+    { components: ['ajonp-firebase-app',] },
+    { components: ['ajonp-firebase-auth',] },
   ],
   collections: [
     { name: '@stencil/router' },
