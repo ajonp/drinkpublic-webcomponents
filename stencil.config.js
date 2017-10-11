@@ -1,7 +1,8 @@
 exports.config = {
   bundles: [
     { components: ['ajonp-drinkpublic',] },
-    { components: ['ajonp-firebase-app',] },
+    { components: ['ajonp-firebase-app-script',] },
+    { components: ['ajonp-firebase-auth-script',] },
     { components: ['ajonp-firebase-auth',] },
   ],
   collections: [

@@ -2,10 +2,10 @@ import { Component } from '@stencil/core';
 
 
 @Component({
-    tag: 'ajonp-firebase-app',
-    styleUrl: 'ajonp-firebase-app.scss'
+    tag: 'ajonp-firebase-app-script',
+    styleUrl: 'ajonp-firebase-app-script.scss'
 })
-export class AjonpFirebaseApp {
+export class AjonpFirebaseAppScript {
 
     componentDidLoad() {
     }

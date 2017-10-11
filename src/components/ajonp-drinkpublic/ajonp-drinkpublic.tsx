@@ -9,12 +9,12 @@ export class AjonpDrinkPublic {
   render() {
     return (
       <ion-app>
-        <ajonp-firebase-app></ajonp-firebase-app>
-        <ajonp-firebase-auth></ajonp-firebase-auth>
-        <ajonp-firebase-database></ajonp-firebase-database>
-        <ajonp-firebase-messaging></ajonp-firebase-messaging>
-        <ajonp-firebase-storage></ajonp-firebase-storage>
-        <ajonp-firebase-init></ajonp-firebase-init>
+        <ajonp-firebase-app-script></ajonp-firebase-app-script>
+        <ajonp-firebase-auth-script></ajonp-firebase-auth-script>
+        <ajonp-firebase-database-script></ajonp-firebase-database-script>
+        <ajonp-firebase-messaging-script></ajonp-firebase-messaging-script>
+        <ajonp-firebase-storage-script></ajonp-firebase-storage-script>
+        <ajonp-firebase-init-script></ajonp-firebase-init-script>
         <stencil-router id='router'>
           <stencil-route
             url='/'

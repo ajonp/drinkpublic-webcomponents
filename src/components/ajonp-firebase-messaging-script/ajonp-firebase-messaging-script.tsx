@@ -2,10 +2,10 @@ import { Component } from '@stencil/core';
 
 
 @Component({
-    tag: 'ajonp-firebase-messaging',
-    styleUrl: 'ajonp-firebase-messaging.scss'
+    tag: 'ajonp-firebase-messaging-script',
+    styleUrl: 'ajonp-firebase-messaging-script.scss'
 })
-export class AjonpFirebaseMessaging {
+export class AjonpFirebaseMessagingScript {
 
     componentDidLoad() {
     }

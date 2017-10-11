@@ -34,7 +34,8 @@ export class WelcomePage {
                             </ion-col>
                         </ion-row>
                     </ion-grid>
-                    <firebase-ui></firebase-ui>
+                    <ajonp-firebase-auth id="auth" provider="google" on-error="handleError">
+                    </ajonp-firebase-auth>
                 </ion-content>
             </ion-page>
         );
