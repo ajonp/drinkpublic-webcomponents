@@ -1,6 +1,6 @@
 {
-  "name": "AJONPDrinkPublic",
-  "short_name": "AJONPDrinkPublic",
+  "name": "DrinkPublic",
+  "short_name": "DrinkPublic",
   "start_url": "/",
   "display": "standalone",
   "icons": [{
