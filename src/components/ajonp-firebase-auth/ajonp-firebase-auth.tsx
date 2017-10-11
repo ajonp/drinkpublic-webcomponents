@@ -13,7 +13,7 @@ export class AjonpFirebaseAuth {
     render() {
         return (
             <div>
-                {<script src="/__/firebase/4.5.0/firebase-auth.js"></script>}
+                <script src="/__/firebase/4.5.0/firebase-auth.js"></script>
             </div>
         );
     }

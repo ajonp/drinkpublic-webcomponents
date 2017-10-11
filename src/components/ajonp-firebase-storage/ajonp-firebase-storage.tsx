@@ -13,7 +13,7 @@ export class AjonpFirebaseStorage {
     render() {
         return (
             <div>
-                {<script src="/__/firebase/4.5.0/firebase-storage.js"></script>}
+                <script src="/__/firebase/4.5.0/firebase-storage.js"></script>
             </div>
         );
     }

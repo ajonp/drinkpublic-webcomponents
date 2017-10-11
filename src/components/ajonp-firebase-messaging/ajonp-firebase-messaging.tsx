@@ -13,7 +13,7 @@ export class AjonpFirebaseMessaging {
     render() {
         return (
             <div>
-                {<script src="/__/firebase/4.5.0/firebase-messaging.js"></script>}
+                <script src="/__/firebase/4.5.0/firebase-messaging.js"></script>
             </div>
         );
     }
