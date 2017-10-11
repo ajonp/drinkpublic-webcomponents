@@ -12,6 +12,7 @@
     "serve": "stencil-dev-server",
     "start": "npm run dev",
     "test": "jest --no-cache",
+    "firebase": "npm run build && firebase serve",
     "test.watch": "jest --watch --no-cache"
   },
   "dependencies": {
