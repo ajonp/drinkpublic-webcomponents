@@ -1,8 +1,10 @@
 # drinkpublic-webcomponents
 Drink Public - Web Components
 
-#Requirmeents
+# Prerequisites
 npm install -g firebase-tools
 
-#How to Run
+You must setup a project and connect to it via command firebase use "<projectname>"
+
+# How to Run
 npm run firebase
